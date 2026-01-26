@@ -10,13 +10,13 @@ console.log(fullName("sadia", "mahamud"));
 
 const registerUser = (
   username: string,
-  isAdmin: boolean,
+  isAdmin?: boolean,
   lanuage: string = "en",
 ) => {
   console.log(username, isAdmin, lanuage);
 };
 
-registerUser("Ali", true);
+registerUser("Ali");
 
 function average(...scores: number[]): number {
   const sum = scores.reduce((acc, current) => acc + current, 0);

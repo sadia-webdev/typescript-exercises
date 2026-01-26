@@ -9,7 +9,7 @@ var registerUser = function (username, isAdmin, lanuage) {
     if (lanuage === void 0) { lanuage = "en"; }
     console.log(username, isAdmin, lanuage);
 };
-registerUser("Ali", true);
+registerUser("Ali");
 function average() {
     var scores = [];
     for (var _i = 0; _i < arguments.length; _i++) {
