@@ -9,3 +9,5 @@ function canEdit(role) {
     return role !== "viewer";
 }
 console.log(canEdit(UserRole.viewer));
+var btn = document.querySelector("button");
+btn.disabled = true;
