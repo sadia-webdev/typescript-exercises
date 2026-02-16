@@ -1,0 +1,1 @@
+{"version":3,"file":"goodbye.controller.js","sourceRoot":"","sources":["../../src/controllers/goodbye.controller.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,MAAM,UAAU,GAAG,CAAC,GAAY,EAAE,GAAa,EAAE,EAAE;IAC1D,MAAM,IAAI,GAAG,GAAG,CAAC,KAAK,CAAC,IAAI,CAAA;IAG3B,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC,EAAE,cAAc,EAAE,uBAAuB,IAAI,GAAG,EAAE,CAAC,CAAC;AACzE,CAAC,CAAA"}
