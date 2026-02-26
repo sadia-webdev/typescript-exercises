@@ -15,4 +15,5 @@ The goal of this repository is to track my progress and receive guidance from my
 8. [**Exercise 8**](/exercise_8/)
 9. [**Exercise 9**](/exercise_9/)
 10. [**Exercise 10**](/exercise_10/)
-111. [**Exercise 11**](/exercise_11/)
+11. [**Exercise 11**](/exercise_11/)
+12. [**Exercise 12**](/exercise_12/)
