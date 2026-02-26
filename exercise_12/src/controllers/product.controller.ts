@@ -18,6 +18,7 @@ export const updateProductById = (
 
 
 
+
 export const ProductQuery = (req: Request<{},{},{}, Query>, res: Response) => {
 const { page, limit } = req.query;
 
